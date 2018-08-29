@@ -1,0 +1,11 @@
+DevCloud puts software development on the cloud, provides the team with one-stop dev-ops services powered by Huawei Cloud, and enables the team members to collaborate seamlessly. We're working on a new version of it, in terms of visual style as well as user experiences. Please keep the following material confidential within this recruitment, thanks a lot!
+
+Create A Task
+	- Defines the user experience of creating a task in Code Check service independently, and adapted it to Continuous Integration service together with colleagues. This pattern was reused in other services then. 
+	- Approaches like Progression Disclosure were employed to keep the user focusing on one single object at a time while finishing a complicated task, therefore ease the frustration and facilitate the completion of task creating. 
+
+Shape the Guideline
+	- Lead the formation of font-family, color scheme and component guidelines. Minimize the number of colors but ensure enough contrast, and eliminate conflict of colors in pages with large forms is the main effort. 
+
+Go mobile
+	- Redesign the work item information page of DevCloud APP. Download and experience it by scanning the QR code or searching in the app store. 
